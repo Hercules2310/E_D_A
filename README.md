@@ -1,2 +1,2 @@
-# E_D_A
+# AirBNB_EDA
 Analyzing businesses with the help of graphs and visuals
